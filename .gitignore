@@ -1,7 +1,6 @@
 # Project dependencies
 node_modules
 yarn-error.log
-package-lock.json
 .sass-cache
 
 # Build directory
